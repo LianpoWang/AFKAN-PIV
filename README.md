@@ -1,6 +1,5 @@
 # AFKAN-PIV
-The near-wall shear flow data you can find in 通过网盘分享的文件：AFKAN_DATASET
-链接: https://pan.baidu.com/s/1eJ7mTDLKrIIeZ8cnF-DL-g?pwd=jfae 提取码: jfae
+The near-wall shear flow data you can find in AFKAN_DATASET: https://pan.baidu.com/s/1eJ7mTDLKrIIeZ8cnF-DL-g?pwd=jfae   code: jfae
 AFKAN-PIV Overview：
 <img width="1920" height="604" alt="AFKAN-PIV" src="https://github.com/user-attachments/assets/34f6e615-c5dc-452e-a58c-d635e36901ad" />
 All-Feature Adaptive Fusion module：
